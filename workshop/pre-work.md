@@ -11,7 +11,7 @@ Then for this workshop, you will need to use the tools provided below to get you
 
 #### Request access to Satellite environment
 
-Click the link to go to the [Request Satellite environment ](https://satellite-invite.mybluemix.net)tool. Lab key is **satellite.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
+Click the link to go to the [Request Satellite environment ](https://satellite-invite.mybluemix.net)tool. Lab key is **welcome.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
