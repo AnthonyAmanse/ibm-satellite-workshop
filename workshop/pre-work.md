@@ -11,21 +11,21 @@ Then for this workshop, you will need to use the tools provided below to get you
 
 #### Request access to Satellite environment
 
-Click the link to go to the [Request Satellite environment ](https://grant-satellite-amol.mybluemix.net)tool. Lab key is **satellite.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
+Click the link to go to the [Request Satellite environment ](https://satellite-invite.mybluemix.net)tool. Lab key is **satellite.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
 #### Request access to cluster number 1 \(dev\)
 
-Click the link to go to the [Request Dev Cluster ](https://ddc-openshift-sat.mybluemix.net/)tool. Lab key is **oslab.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
+Click the link to go to the [Request DEV Cluster ](https://ddc-lab-ocp-dev.mybluemix.net/)tool. Lab key is **oslab.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
 
 #### Request access to cluster number 2 \(qa\)
 
-Click the link to go to the [Request Dev Cluster ](https://ddc-satellite-qa.mybluemix.net/)tool. Lab key is **oslab.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
+Click the link to go to the [Request QA Cluster ](https://ddc-lab-ocp-qa.mybluemix.net/)tool. Lab key is **oslab.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
 
 #### Request access to cluster number 3 \(prod\)
 
-Click the link to go to the [Request Dev Cluster ](https://ddc-openshift-prod.mybluemix.net/)tool. Lab key is **oslab.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
+Click the link to go to the [Request PROD Cluster ](https://ddc-lab-ocp-prod.mybluemix.net/)tool. Lab key is **oslab.** Your IBMid is the email you used to register on [IBM Cloud](https://cloud.ibm.com/).
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
