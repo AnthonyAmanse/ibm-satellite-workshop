@@ -18,7 +18,7 @@ Click the link to go to the Request Satellite environment tool. Lab key is **wel
 #### 
 
 {% hint style="info" %}
-**You will then get an invite message in your email which you must accept to continue**. It doesn’t matter if you see an “oops” message here.
+**Reminder: You will get an invite message in your email which you must accept to continue**. It doesn’t matter if you see an “oops” message here. You must accept the invite to the account before proceeding to the next steps.
 {% endhint %}
 
 #### Request access to cluster number 1 \(dev\)
